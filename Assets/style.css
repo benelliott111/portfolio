@@ -12,12 +12,6 @@ h2{text-align: center;
     color: darkcyan;
 }
 
-/* colours corresponding divs */
-.coloured{
-    border:2px transparent black;
-    background-color:gray;
-}
-
 /* wraps rows */
 .row {
     display: flex;
@@ -43,10 +37,6 @@ h2{text-align: center;
     }
 }
 
-/* sets card text color */
-.card-text{
-    color:white;
-}
 
 /* sets 'Ben Elliott' to bold */
 .navbar-brand{
